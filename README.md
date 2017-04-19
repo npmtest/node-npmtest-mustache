@@ -1,4 +1,7 @@
-# test coverage for  [mustache (v2.3.0)](https://github.com/janl/mustache.js)  [![npm package](https://img.shields.io/npm/v/npmtest-mustache.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mustache) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mustache.svg)](https://travis-ci.org/npmtest/node-npmtest-mustache)
+# npmtest-mustache
+
+#### basic test coverage for  [mustache (v2.3.0)](https://github.com/janl/mustache.js)  [![npm package](https://img.shields.io/npm/v/npmtest-mustache.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mustache) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mustache.svg)](https://travis-ci.org/npmtest/node-npmtest-mustache)
+
 #### Logic-less {{mustache}} templates with JavaScript
 
 [![NPM](https://nodei.co/npm/mustache.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mustache)
